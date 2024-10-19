@@ -6,5 +6,8 @@
 3. 游客 cookie 的生成方式：
    - 随机生成 `ttwid`，`msToken`，`webid`，`__ac_nonce`，`__ac_signature`，`biz_trace_id` 等字段，拼凑形成 cookie。
 
-# 二、源码
-见main.py
+# donate
+
+如果该项目对您有帮助，欢迎微信打赏
+
+<img src="./img/WechatIMG3.jpg" width="33.3%" />
