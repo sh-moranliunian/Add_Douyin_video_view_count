@@ -1,4 +1,4 @@
-# 一、思路
+# 思路
 
 1. 通过调用如下接口来实现增加播放量:
    - `https://www.douyin.com/aweme/v2/web/aweme/stats/`
